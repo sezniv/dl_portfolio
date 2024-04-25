@@ -5,7 +5,8 @@
 .des1 {display: flex;
     justify-content: center;
     margin-top: 40px;
-    margin-bottom: 40px;}
+    margin-bottom: 40px;
+    background-color: powderblue;}
 
 .texto {width: 600px;
     padding-top: 80px;
@@ -17,3 +18,4 @@ hr {width: 80%;
 
 .foot {height: 300px;
     padding-top: 160px;}
+
